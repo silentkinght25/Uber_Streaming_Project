@@ -69,9 +69,8 @@ Uber_Streaming_Project/
 │   ├── connection.py             # Event Hubs producer (reads credentials from .env)
 │   ├── data.py                   # Generates fake ride confirmations
 │   ├── templates/                # home.html, confirmation.html
-│   └── Data/       
-Run Outcome supporting docs
-│   └── Screenshot/                # Mapping files and bulk_ride.json
+│   └── Data/                     # Mapping files and bulk_ride.json
+│   └── Screenshot/               # Run Outcome supporting docs
 ├── Databricks_Pipeline/          # Databricks pipelines, notebooks and model.py
 └── README.md
 ```

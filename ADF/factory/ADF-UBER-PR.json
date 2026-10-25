@@ -1,0 +1,15 @@
+{
+	"name": "ADF-UBER-PR",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6dd0d104-6d85-4366-99e2-a07ff7012efe",
+		"tenantId": "a99a3b28-6340-4da8-9e7c-6dfe6c184655"
+	}
+}
